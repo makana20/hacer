@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hacer"
+    }
+  },
+  "defaultProject": "hacer",
+  "cli": {
+    "analytics": false
+  }
 }
